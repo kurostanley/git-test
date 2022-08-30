@@ -1,4 +1,4 @@
 #This project is the practice for git
 
-first commit
-second commit
+- first commit
+- second commit
